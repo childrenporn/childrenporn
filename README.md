@@ -1,0 +1,3 @@
+- 👋 Hola, soy dk.
+- 👀 Me gustan las nenitas de discord uwu.
+- 🌱 Actualmente programo en Node.js & Python, Pawno.
